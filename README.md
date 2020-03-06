@@ -23,4 +23,4 @@ Huy Truong Dang, Faculty of Information Systems, University of Economics and Law
 Dung Nguyen Hoang, Faculty of Information Systems, University of Economics and Law, Vietnam National University Ho Chi Minh City <br/>
 An Vo Nguyen Tam, Faculty of Information Systems, University of Economics and Law, Vietnam National University Ho Chi Minh City <br/>
 Truc Le Thi Thanh, Faculty of Information Systems, University of Economics and Law, Vietnam National University Ho Chi Minh City<br/>
-Le Hoanh Su, Faculty of Information Systems, University of Economics and Law, Vietnam National University Ho Chi Minh City<br/></i>
+Su Le Hoanh, Faculty of Information Systems, University of Economics and Law, Vietnam National University Ho Chi Minh City<br/></i>
