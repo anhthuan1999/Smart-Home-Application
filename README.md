@@ -2,7 +2,7 @@
 Accepted at MITA 2019 (International Conference on Multimedia Information Technology and Applications): https://www.researchgate.net/publication/335354382_SmartHome_IoT_Application_Development </br>
 <br/>
 
-Some results from this research:<br/<<br/>
+Some results from this research:<br/><br/>
 
 ![Image of Thief Warning](https://raw.githubusercontent.com/anhthuan1999/SmartHomeApplication/master/images/thief.PNG) <br/>
 Thief Warning <br/><br/>
