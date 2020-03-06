@@ -1,0 +1,15 @@
+C:\Users\Tran Anh Thuan\Desktop\SmartHome\SmartHome\bin\Debug\SmartHome.exe.config
+C:\Users\Tran Anh Thuan\Desktop\SmartHome\SmartHome\bin\Debug\SmartHome.exe
+C:\Users\Tran Anh Thuan\Desktop\SmartHome\SmartHome\bin\Debug\SmartHome.pdb
+C:\Users\Tran Anh Thuan\Desktop\SmartHome\SmartHome\obj\Debug\SmartHome.csprojAssemblyReference.cache
+C:\Users\Tran Anh Thuan\Desktop\SmartHome\SmartHome\obj\Debug\MainWindow.g.cs
+C:\Users\Tran Anh Thuan\Desktop\SmartHome\SmartHome\obj\Debug\App.g.cs
+C:\Users\Tran Anh Thuan\Desktop\SmartHome\SmartHome\obj\Debug\SmartHome_MarkupCompile.cache
+C:\Users\Tran Anh Thuan\Desktop\SmartHome\SmartHome\obj\Debug\SmartHome_MarkupCompile.lref
+C:\Users\Tran Anh Thuan\Desktop\SmartHome\SmartHome\obj\Debug\MainWindow.baml
+C:\Users\Tran Anh Thuan\Desktop\SmartHome\SmartHome\obj\Debug\SmartHome.g.resources
+C:\Users\Tran Anh Thuan\Desktop\SmartHome\SmartHome\obj\Debug\SmartHome.Properties.Resources.resources
+C:\Users\Tran Anh Thuan\Desktop\SmartHome\SmartHome\obj\Debug\SmartHome.csproj.GenerateResource.cache
+C:\Users\Tran Anh Thuan\Desktop\SmartHome\SmartHome\obj\Debug\SmartHome.csproj.CoreCompileInputs.cache
+C:\Users\Tran Anh Thuan\Desktop\SmartHome\SmartHome\obj\Debug\SmartHome.exe
+C:\Users\Tran Anh Thuan\Desktop\SmartHome\SmartHome\obj\Debug\SmartHome.pdb

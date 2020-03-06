@@ -1,0 +1,112 @@
+﻿<Window x:Class="SmartHome.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SmartHome"
+        mc:Ignorable="d"
+        Title="SmartHome-UEL" Height="734" Width="1920" WindowState="Maximized" Loaded="Window_Loaded">
+	<StackPanel>
+		<UniformGrid Columns="2">
+			<Label Content="Port: COM 3" HorizontalAlignment="Center" FontSize="20" Foreground="#FFE82727"/>
+			<Label Content="SmartHome-IoT" HorizontalAlignment="Center" FontSize="20" Foreground="#FF939393"/>
+		</UniformGrid>
+		<Grid Height="664">
+			<Grid.ColumnDefinitions>
+				<ColumnDefinition Width="1*"/>
+				<ColumnDefinition Width="1*"/>
+				<ColumnDefinition Width="2*"/>
+			</Grid.ColumnDefinitions>
+			<Grid.RowDefinitions>
+				<RowDefinition Height="1*"/>
+			</Grid.RowDefinitions>
+			<GroupBox Grid.Column="0" Header="Lights" FontSize="20">
+				<Grid>
+
+					<Image x:Name="imgliving1" HorizontalAlignment="Left" Height="78" Margin="10,38,0,0" VerticalAlignment="Top" Width="78" Source="on.png"/>
+					<Label Content="Living Room Light 1" HorizontalAlignment="Left" Margin="106,38,0,0" VerticalAlignment="Top"/>
+					<Button Content="Turn off" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="106,80,0,0"/>
+
+					<Image x:Name="imgliving2" HorizontalAlignment="Left" Height="78" Margin="10,142,0,0" VerticalAlignment="Top" Width="78" Source="on.png"/>
+					<Label x:Name="lbl" Content="Living Room Light 2" HorizontalAlignment="Left" Margin="106,144,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.457,0.5"/>
+					<Button Content="Turn off" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="106,189,0,0"/>
+
+					<Image x:Name="imgtoilet" HorizontalAlignment="Left" Height="78" Margin="10,472,0,0" VerticalAlignment="Top" Width="78" Source="on.png"/>
+					<Label  Content="Toilet Light" HorizontalAlignment="Left" Margin="106,472,0,0" VerticalAlignment="Top"/>
+					<Button Content="Turn on" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="106,514,0,0"/>
+
+					<Image x:Name="imgbed" HorizontalAlignment="Left" Height="78" Margin="10,364,0,0" VerticalAlignment="Top" Width="78" Source="on.png"/>
+					<Label  Content="Bedroom Light" HorizontalAlignment="Left" Margin="106,366,0,0" VerticalAlignment="Top"/>
+					<Button Content="Turn off" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="106,403,0,0"/>
+
+					<Image x:Name="imgkitchen" HorizontalAlignment="Left" Height="78" Margin="10,250,0,0" VerticalAlignment="Top" Width="78" Source="on.png"/>
+					<Label  Content="Kitchen Light" HorizontalAlignment="Left" Margin="106,250,0,0" VerticalAlignment="Top"/>
+					<Button Content="Turn on" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="106,292,0,0"/>
+
+
+
+
+				</Grid>
+			</GroupBox>
+			<GroupBox Grid.Column="1" Header="Sockets" FontSize="20">
+				<Grid>
+
+					<Image x:Name="imglivings1" HorizontalAlignment="Left" Height="78" Margin="10,38,0,0" VerticalAlignment="Top" Width="78" Source="on.png"/>
+					<Label Content="Living Room Socket 1" HorizontalAlignment="Left" Margin="106,38,0,0" VerticalAlignment="Top"/>
+					<Button Content="Turn off" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="106,80,0,0"/>
+
+					<Image x:Name="imglivings2" HorizontalAlignment="Left" Height="78" Margin="10,142,0,0" VerticalAlignment="Top" Width="78" Source="on.png"/>
+					<Label x:Name="lbls" Content="Living Room Socket 2" HorizontalAlignment="Left" Margin="106,144,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.457,0.5"/>
+					<Button Content="Turn on" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="106,189,0,0"/>
+
+					<Image x:Name="imgtoilets" HorizontalAlignment="Left" Height="78" Margin="10,472,0,0" VerticalAlignment="Top" Width="78" Source="on.png"/>
+					<Label  Content="Toilet Socket" HorizontalAlignment="Left" Margin="106,472,0,0" VerticalAlignment="Top"/>
+					<Button Content="Turn on" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="106,514,0,0"/>
+
+					<Image x:Name="imgbeds" HorizontalAlignment="Left" Height="78" Margin="10,364,0,0" VerticalAlignment="Top" Width="78" Source="on.png"/>
+					<Label  Content="Bedroom Socket" HorizontalAlignment="Left" Margin="106,366,0,0" VerticalAlignment="Top"/>
+					<Button Content="Turn on" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="106,403,0,0"/>
+
+					<Image x:Name="imgkitchens" HorizontalAlignment="Left" Height="78" Margin="10,250,0,0" VerticalAlignment="Top" Width="78" Source="on.png"/>
+					<Label  Content="Kitchen Socket" HorizontalAlignment="Left" Margin="106,250,0,0" VerticalAlignment="Top"/>
+					<Button Content="Turn off" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="106,292,0,0"/>
+
+				</Grid>
+			</GroupBox>
+			<GroupBox Grid.Column="2" Header="Warning" FontSize="20">
+				<StackPanel>
+					<GroupBox Header="Security" Height="198" >
+						<Grid>
+							<Image x:Name="imgst" HorizontalAlignment="Left" Height="78" Margin="10,38,0,0" VerticalAlignment="Top" Width="78" Source="on.png"/>
+							<Image x:Name="imgss" HorizontalAlignment="Left" Height="78" Margin="566,39,0,0" VerticalAlignment="Top" Width="78" Source="on.png"/>
+							<Image x:Name="imgsg" HorizontalAlignment="Left" Height="30" Margin="112,65,0,0" VerticalAlignment="Top" Width="30" Source="on.png"/>
+							<Label Content="Your home is safe" HorizontalAlignment="Left" Margin="162,39,0,0" VerticalAlignment="Top" Width="437" FontSize="50"/>
+
+						</Grid>
+					</GroupBox>
+					<GroupBox Header="Fire Warning" Height="198" >
+						<Grid>
+							<Image x:Name="imgft" HorizontalAlignment="Left" Height="78" Margin="10,38,0,0" VerticalAlignment="Top" Width="78" Source="on.png"/>
+							<Image x:Name="imgfs" HorizontalAlignment="Left" Height="78" Margin="570,38,0,0" VerticalAlignment="Top" Width="78" Source="on.png"/>
+							<Image x:Name="imgfg" HorizontalAlignment="Left" Height="30" Margin="114,70,0,0" VerticalAlignment="Top" Width="30" Source="on.png"/>
+							<Label Content="Your home is safe" HorizontalAlignment="Left" Margin="164,41,0,0" VerticalAlignment="Top" Width="436" FontSize="50"/>
+
+						</Grid>
+
+					</GroupBox>
+					<GroupBox Header="Gas Leak Warning" Height="237">
+						<Grid>
+							<Image x:Name="imggt" HorizontalAlignment="Left" Height="78" Margin="10,66,0,0" VerticalAlignment="Top" Width="78" Source="on.png"/>
+							<Image x:Name="imggs" HorizontalAlignment="Left" Height="78" Margin="571,66,0,0" VerticalAlignment="Top" Width="78" Source="on.png"/>
+							<Image x:Name="imggg" HorizontalAlignment="Left" Height="30" Margin="112,94,0,0" VerticalAlignment="Top" Width="30" Source="on.png"/>
+							<Label Content="Your gas is leaking" HorizontalAlignment="Left" Margin="147,68,0,0" VerticalAlignment="Top" Width="437" FontSize="50" Foreground="#FFFD2F2F"/>
+
+						</Grid>
+
+					</GroupBox>
+				</StackPanel>
+			</GroupBox>
+		</Grid>
+
+	</StackPanel>
+</Window>
