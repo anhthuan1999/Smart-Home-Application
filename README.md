@@ -1,6 +1,5 @@
 # SmartHomeApplication
 Accepted at MITA 2019 (International Conference on Multimedia Information Technology and Applications): https://www.researchgate.net/publication/335354382_SmartHome_IoT_Application_Development </br>
-If you have any questions or want to use this data, feel free to contact me at: thuanta17411@st.uel.edu.vn<br/>
 <br/>
 
 Some results from this research:<br/<<br/>
