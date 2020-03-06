@@ -4,9 +4,9 @@ Accepted at MITA 2019 (International Conference on Multimedia Information Techno
 
 Some results from this research:<br/<<br/>
 
-![Image of Thief Warning](https://raw.githubusercontent.com/anhthuan1999/SmartHomeApplication/master/images/thief.png) <br/>
-![Image of Fire Warning](https://raw.githubusercontent.com/anhthuan1999/SmartHomeApplication/master/images/fire.png)<br/>
-![Image of Gas Leak Warning](https://raw.githubusercontent.com/anhthuan1999/SmartHomeApplication/master/images/gas.png) <br/>
+![Image of Thief Warning](https://raw.githubusercontent.com/anhthuan1999/SmartHomeApplication/master/images/thief.PNG) <br/>
+![Image of Fire Warning](https://raw.githubusercontent.com/anhthuan1999/SmartHomeApplication/master/images/fire.PNG)<br/>
+![Image of Gas Leak Warning](https://raw.githubusercontent.com/anhthuan1999/SmartHomeApplication/master/images/gas.PNG) <br/>
 
 
 Please feel free to contact us if you want to use our data at: thuanta17411@st.uel.edu.vn or if you have any question.<br/><br/>
