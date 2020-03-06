@@ -2,6 +2,10 @@
 Accepted at MITA 2019 (International Conference on Multimedia Information Technology and Applications): https://www.researchgate.net/publication/335354382_SmartHome_IoT_Application_Development </br>
 <br/>
 
+In recent years, Vietnamese living facility has risen along with their spiritual needs. People concern more about their spiritual life, including SmartHome.Using technology, having on-time warnings and saving energy, SmartHome brings convenience and safety to people. However, SmartHome in VietNam are mostly provided by abroad business organizations. This scientific research focuses on building some basic features of SmartHome such as controlling devices or thief warnings with low cost, match with VietNam environment and culture. 
+</br></br>
+(PDF) SmartHome IoT Application Development. Available from: https://www.researchgate.net/publication/335360199_SmartHome_IoT_Application_Development [accessed Mar 06 2020].
+
 Some results from this research:<br/><br/>
 
 ![Image of Thief Warning](https://raw.githubusercontent.com/anhthuan1999/SmartHomeApplication/master/images/thief.PNG) <br/>
